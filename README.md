@@ -1,4 +1,4 @@
-
+<p>Um Oraculo para analisar a idade de cada viajante, se eles são da mesma época ou não</p>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d312fa78-3d91-42d4-89f9-40a79e30597e" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a098a0fc-7c7e-4464-a596-61fe8c1fd7f7" />
